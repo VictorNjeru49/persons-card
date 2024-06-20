@@ -1,0 +1,149 @@
+[
+    {
+    "id": 1,
+    "name": "John Doe",
+    "age": 35,
+    "profilepicture": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+    "bio": "I am a software engineer passionate about building innovative solutions."
+    },
+    {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 28,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Jane+Smith&size=250",
+    "bio": "Aspiring artist and nature enthusiast."
+    },
+    {
+    "id": 3,
+    "name": "Michael Johnson",
+    "age": 42,
+    "profilepicture": "https://i.pravatar.cc/250?u=mail@ashallendesign.co.uk",
+    "bio": "Dedicated family man and avid outdoorsman."
+    },
+    {
+    "id": 4,
+    "name": "Emily Davis",
+    "age": 19,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Emily+Davis&size=250",
+    "bio": "College student with a passion for social justice."
+    },
+    {
+    "id": 5,
+    "name": "David Lee",
+    "age": 31,
+    "profilepicture": "https://dummyimage.com/300.png/09f/fff&text=David+Lee",
+    "bio": "Tech entrepreneur and fitness enthusiast."
+    },
+    {
+    "id": 6,
+    "name": "Sarah Wilson",
+    "age": 24,
+    "profilepicture": "https://robohash.org/mail@ashallendesign.co.uk",
+    "bio": "Aspiring writer and avid reader."
+    },
+    {
+    "id": 7,
+    "name": "Christopher Brown",
+    "age": 27,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Christopher+Brown&size=250",
+    "bio": "Musician and creative visionary."
+    },
+    {
+    "id": 8,
+    "name": "Olivia Taylor",
+    "age": 33,
+    "profilepicture": "https://dummyimage.com/300.png/09f/fff&text=Olivia+Taylor",
+    "bio": "Marketing specialist and world traveler."
+    },
+    {
+    "id": 9,
+    "name": "Ethan Garcia",
+    "age": 29,
+    "profilepicture": "https://dummyimage.com/300.png/09f/fff&text=Ethan+Garcia",
+    "bio": "Photographer and nature lover."
+    },
+    {
+    "id": 10,
+    "name": "Isabella Fernandez",
+    "age": 22,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Isabella+Fernandez&size=250",
+    "bio": "Student and social media influencer."
+    },
+    {
+    "id": 11,
+    "name": "Lucas Morales",
+    "age": 38,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Lucas+Morales&size=250",
+    "bio": "Small business owner and community advocate."
+    },
+    {
+    "id": 12,
+    "name": "Sophia Ramirez",
+    "age": 25,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Sophia+Ramirez&size=250",
+    "bio": "Graphic designer and art enthusiast."
+    },
+    {
+    "id": 13,
+    "name": "Andrew Gonzalez",
+    "age": 36,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Andrew+Gonzalez&size=250",
+    "bio": "IT professional and sports fanatic."
+    },
+    {
+    "id": 14,
+    "name": "Ava Flores",
+    "age": 21,
+    "profilepicture": "https://dummyimage.com/300.png/09f/fff&text=Ava+Flores",
+    "bio": "College student and volunteer."
+    },
+    {
+    "id": 15,
+    "name": "Jacob Hernandez",
+    "age": 30,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Jacob+Hernandez&size=250",
+    "bio": "Entrepreneur and lifelong learner."
+    },
+    {
+    "id": 16,
+    "name": "Emma Torres",
+    "age": 27,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Emma+Torres&size=250",
+    "bio": "Yoga instructor and mindfulness advocate."
+    },
+    {
+    "id": 17,
+    "name": "Daniel Reyes",
+    "age": 41,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Daniel+Reyes&size=250",
+    "bio": "Architect and family man."
+    },
+    {
+    "id": 18,
+    "name": "Mia Castillo",
+    "age": 23,
+    "profilepicture": "https://dummyimage.com/300.png/09f/fff&text=Mia+Castillo",
+    "bio": "Aspiring journalist and human rights activist."
+    },
+    {
+    "id": 19,
+    "name": "Alexander Diaz",
+    "age": 34,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Alexander+Diaz&size=250",
+    "bio": "Software engineer and outdoor enthusiast."
+    },
+    {
+    "id": 20,
+    "name": "Isabella Sanchez",
+    "age": 26,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Isabella+Sanchez&size=250",
+    "bio": "Graphic designer and creative visionary."
+    },
+    {
+    "id": 21,
+    "name": "Liam Gutierrez",
+    "age": 39,
+    "profilepicture": "https://eu.ui-avatars.com/api/?name=Liam+Gutierrez&size=250",
+    "bio": "Entrepreneur and philanthropist."
+    }
+    ]
